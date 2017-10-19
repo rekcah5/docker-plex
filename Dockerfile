@@ -23,6 +23,7 @@ RUN \
 	avahi-daemon \
 	dbus \
 	unrar \
+	vainfo \
 	wget && \
 
 # install plex
